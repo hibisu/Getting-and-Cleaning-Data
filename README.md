@@ -25,7 +25,6 @@ saving your submission).
 
 
 
-
 Repository structure
 
 -directory /project_data, contains all files needed for evaluation by run_analysis.R
